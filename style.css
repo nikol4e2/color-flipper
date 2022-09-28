@@ -1,0 +1,19 @@
+.nav-center
+{
+    display: flex;
+    justify-content: space-around;
+    text-transform: uppercase;
+    border-bottom: 1px solid gray;
+}
+.nav-links > li
+{
+    display:inline;
+    text-transform: uppercase;
+    color: black;
+
+}
+
+.nav-links > li >a{
+    text-decoration: none;
+    
+}
